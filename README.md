@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm caiwu 👨‍💻 </h1>
 
-<h3 align="center">  Tech Enthusiast | Computer Engineer </h3> <br>
+<h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
 
 <p align="center"> 
 </p>
