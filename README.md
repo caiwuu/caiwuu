@@ -2,8 +2,6 @@
 
 <h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
 
-<p align="center"> </p>
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
