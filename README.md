@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I'm caiwu 👨‍💻 </h1>
 
 <h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
-<p align="center"><a href="http://www.w3school.com.cn">W3School</a></p> <br>
+<p align="center"><a href="https://caiwuu.github.io/">Blog</a></p> <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
