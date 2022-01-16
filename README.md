@@ -1,8 +1,6 @@
-<h1 align="center"> Hello, I'm caiwu 👨‍💻 </h1>
+<h1 align="center"><a href="https://caiwuu.github.io/">Hello, I'm caiwu 👨‍💻 </a></h1>
 
 <h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
-<p align="center"><a href="https://caiwuu.github.io/">Blog</a></p> <br>
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About
 -  **Working :**  Web Development :computer: | Cloud :cloud: 
