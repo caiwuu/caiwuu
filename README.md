@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://caiwuu.github.io/">Hello, I'm caiwu 👨‍💻 </a></h1>
+<h1 align="center"><a href="https://caiwuu.github.io/">Hello, I'm chiwu 👨‍💻 </a></h1>
 
 <h3 align="center">  Tech Enthusiast | Software Engineer </h3> <br>
 
